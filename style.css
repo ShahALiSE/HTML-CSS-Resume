@@ -1,1 +1,43 @@
-/* Your CSS styles go here */
+html{
+		background:rgb(24,63,99);color:#FFF;
+		} 
+
+.pbox{
+	width: 400px;
+	height: 400px;
+	background: rgb(119,15,34);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+}
+
+.ppic{
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+div
+{
+    border-radius: 10px;
+
+    }
+
+h1,h2,h3 { font-family:'Montserrat', serif; font-size:2vw; color:#FFF; margin:0; }
+h4{line-height:1.5em;font-family: Times new Roman}
+#name {
+    float:center;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    color: #ffffff;
+}
+
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    }
+
